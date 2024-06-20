@@ -390,7 +390,9 @@ Types of metadata
 -   Keyword Metadata: <meta name="keywords" content="keyword1, keyword2, keyword3" />    
 -   Open Graph Metadata: enhances the way a webpage is represented when shared on social media platforms    
 `<meta property="og:title" content="Title Here" />`
+
 `<meta property="og:description" content="Description Here" />`
+
 `<meta property="og:image" content="image_url_here" />`
 
   
